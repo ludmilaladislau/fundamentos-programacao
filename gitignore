@@ -1,0 +1,7 @@
+# Executaveis e arquivos do compilador
+*.exe
+*.o
+*.out
+*.dev
+*.layout
+*.win
